@@ -1,5 +1,5 @@
 # rsrp-unicornvipgen
-vip card generation program for the 'Unicorn' company on the GTA5 RP Redstart server
+vip card generation program for the 'Unicorn' company on the GTA5 server
 
 1. create a file in your desktop as name you want and unzip the file inside him
 
