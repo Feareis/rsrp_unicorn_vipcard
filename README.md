@@ -38,7 +38,7 @@
 
 <br/>
 
-## Instalation -
+## Instalation
 
 After cloning and setting up the project files on your local machine, run the following command in your terminal
 
